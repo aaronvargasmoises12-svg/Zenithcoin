@@ -1,0 +1,2 @@
+# Zenithcoin
+Zenith
